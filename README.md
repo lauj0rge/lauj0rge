@@ -1,5 +1,6 @@
-<div align="center"> <img src="https://github.com/lauj0rge/lauj0rge/assets/banner.png" alt="Cloud & DevOps Banner" width="100%">
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lauj0rge/lauj0rge/main/assets/banner.png" alt="Cloud & DevOps Banner" width="100%">
+</div>
 
 ### 🧭 About Me
 
