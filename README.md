@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lauj0rge/lauj0rge/main/assets/banner.png" alt="Cloud & DevOps Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/lauj0rge/lauj0rge/main/assets/banner.png" alt="Cloud & DevOps Banner" style="max-width:100%; height:200px; object-fit:contain;">
 </div>
+
 
 ### 🧭 About Me
 
